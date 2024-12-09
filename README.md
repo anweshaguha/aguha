@@ -1,2 +1,2 @@
-# aguha
-Personal website development.
+
+Welcome! I am a PhD candidate in the Quantitative Research Methods Program at the University of Oregon. I am interested in supporting students transitioning into higher education through the lens of equity, prevention, and wellbeing. Through different critical methodological approaches and guided by my personal experiences as both a student and high school math teacher, my aim is to truly understand who is supported, who is not, and what we can do about it at a systems-level in expanding graduation and higher education access.
